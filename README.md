@@ -22,7 +22,7 @@ You have the ability to take 150 samples of passengers on the Titanic to determi
 
 
 #### 2. (5 points)
-Using your allocation from above, take a stratified random sample from the dataset titanic.csv, and compute a point estimate for the survival probability of the entire population,  \hat{p}_{str} . (Include your R code or hand written computations).
+Using your allocation from above, take a stratified random sample from the dataset titanic.csv, and compute a point estimate for the survival probability of each strata as well as the entire population,  \hat{p}_{str} . (Include your R code or hand written computations).
 
 ```{r}
 library(readr)
